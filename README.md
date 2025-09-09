@@ -2,5 +2,5 @@
 
 ### setup
 
-- [github-runner](setup/github-runner.sh)
-- [singlenodecluster](setup/singlenodecluster.sh)
+- [github-runner](https://github.com/ayush-jsrt/bash/blob/main/setups/github-runner.sh)
+- [singlenodecluster](https://github.com/ayush-jsrt/bash/blob/main/setups/singlenodecluster.sh)
